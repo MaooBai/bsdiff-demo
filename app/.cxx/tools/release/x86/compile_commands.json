@@ -1,0 +1,47 @@
+[
+{
+  "directory": "C:/androidprogram/BsdiffDemo/app/.cxx/RelWithDebInfo/6y53p5a2/x86",
+  "command": "C:\\Users\\cheng\\AppData\\Local\\Android\\Sdk\\ndk\\26.1.10909125\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android24 --sysroot=C:/Users/cheng/AppData/Local/Android/Sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dbsdiffdemo_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O2 -g -DNDEBUG -fPIC -o CMakeFiles\\bsdiffdemo.dir\\native-lib.cpp.o -c C:\\androidprogram\\BsdiffDemo\\app\\src\\main\\cpp\\native-lib.cpp",
+  "file": "C:\\androidprogram\\BsdiffDemo\\app\\src\\main\\cpp\\native-lib.cpp"
+},
+{
+  "directory": "C:/androidprogram/BsdiffDemo/app/.cxx/RelWithDebInfo/6y53p5a2/x86",
+  "command": "C:\\Users\\cheng\\AppData\\Local\\Android\\Sdk\\ndk\\26.1.10909125\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=i686-none-linux-android24 --sysroot=C:/Users/cheng/AppData/Local/Android/Sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dbsdiffdemo_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -g -DNDEBUG -fPIC -o CMakeFiles\\bsdiffdemo.dir\\bzip\\blocksort.c.o -c C:\\androidprogram\\BsdiffDemo\\app\\src\\main\\cpp\\bzip\\blocksort.c",
+  "file": "C:\\androidprogram\\BsdiffDemo\\app\\src\\main\\cpp\\bzip\\blocksort.c"
+},
+{
+  "directory": "C:/androidprogram/BsdiffDemo/app/.cxx/RelWithDebInfo/6y53p5a2/x86",
+  "command": "C:\\Users\\cheng\\AppData\\Local\\Android\\Sdk\\ndk\\26.1.10909125\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=i686-none-linux-android24 --sysroot=C:/Users/cheng/AppData/Local/Android/Sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dbsdiffdemo_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -g -DNDEBUG -fPIC -o CMakeFiles\\bsdiffdemo.dir\\bzip\\bzlib.c.o -c C:\\androidprogram\\BsdiffDemo\\app\\src\\main\\cpp\\bzip\\bzlib.c",
+  "file": "C:\\androidprogram\\BsdiffDemo\\app\\src\\main\\cpp\\bzip\\bzlib.c"
+},
+{
+  "directory": "C:/androidprogram/BsdiffDemo/app/.cxx/RelWithDebInfo/6y53p5a2/x86",
+  "command": "C:\\Users\\cheng\\AppData\\Local\\Android\\Sdk\\ndk\\26.1.10909125\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=i686-none-linux-android24 --sysroot=C:/Users/cheng/AppData/Local/Android/Sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dbsdiffdemo_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -g -DNDEBUG -fPIC -o CMakeFiles\\bsdiffdemo.dir\\bzip\\compress.c.o -c C:\\androidprogram\\BsdiffDemo\\app\\src\\main\\cpp\\bzip\\compress.c",
+  "file": "C:\\androidprogram\\BsdiffDemo\\app\\src\\main\\cpp\\bzip\\compress.c"
+},
+{
+  "directory": "C:/androidprogram/BsdiffDemo/app/.cxx/RelWithDebInfo/6y53p5a2/x86",
+  "command": "C:\\Users\\cheng\\AppData\\Local\\Android\\Sdk\\ndk\\26.1.10909125\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=i686-none-linux-android24 --sysroot=C:/Users/cheng/AppData/Local/Android/Sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dbsdiffdemo_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -g -DNDEBUG -fPIC -o CMakeFiles\\bsdiffdemo.dir\\bzip\\crctable.c.o -c C:\\androidprogram\\BsdiffDemo\\app\\src\\main\\cpp\\bzip\\crctable.c",
+  "file": "C:\\androidprogram\\BsdiffDemo\\app\\src\\main\\cpp\\bzip\\crctable.c"
+},
+{
+  "directory": "C:/androidprogram/BsdiffDemo/app/.cxx/RelWithDebInfo/6y53p5a2/x86",
+  "command": "C:\\Users\\cheng\\AppData\\Local\\Android\\Sdk\\ndk\\26.1.10909125\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=i686-none-linux-android24 --sysroot=C:/Users/cheng/AppData/Local/Android/Sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dbsdiffdemo_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -g -DNDEBUG -fPIC -o CMakeFiles\\bsdiffdemo.dir\\bzip\\decompress.c.o -c C:\\androidprogram\\BsdiffDemo\\app\\src\\main\\cpp\\bzip\\decompress.c",
+  "file": "C:\\androidprogram\\BsdiffDemo\\app\\src\\main\\cpp\\bzip\\decompress.c"
+},
+{
+  "directory": "C:/androidprogram/BsdiffDemo/app/.cxx/RelWithDebInfo/6y53p5a2/x86",
+  "command": "C:\\Users\\cheng\\AppData\\Local\\Android\\Sdk\\ndk\\26.1.10909125\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=i686-none-linux-android24 --sysroot=C:/Users/cheng/AppData/Local/Android/Sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dbsdiffdemo_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -g -DNDEBUG -fPIC -o CMakeFiles\\bsdiffdemo.dir\\bzip\\huffman.c.o -c C:\\androidprogram\\BsdiffDemo\\app\\src\\main\\cpp\\bzip\\huffman.c",
+  "file": "C:\\androidprogram\\BsdiffDemo\\app\\src\\main\\cpp\\bzip\\huffman.c"
+},
+{
+  "directory": "C:/androidprogram/BsdiffDemo/app/.cxx/RelWithDebInfo/6y53p5a2/x86",
+  "command": "C:\\Users\\cheng\\AppData\\Local\\Android\\Sdk\\ndk\\26.1.10909125\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=i686-none-linux-android24 --sysroot=C:/Users/cheng/AppData/Local/Android/Sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dbsdiffdemo_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -g -DNDEBUG -fPIC -o CMakeFiles\\bsdiffdemo.dir\\bzip\\randtable.c.o -c C:\\androidprogram\\BsdiffDemo\\app\\src\\main\\cpp\\bzip\\randtable.c",
+  "file": "C:\\androidprogram\\BsdiffDemo\\app\\src\\main\\cpp\\bzip\\randtable.c"
+},
+{
+  "directory": "C:/androidprogram/BsdiffDemo/app/.cxx/RelWithDebInfo/6y53p5a2/x86",
+  "command": "C:\\Users\\cheng\\AppData\\Local\\Android\\Sdk\\ndk\\26.1.10909125\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=i686-none-linux-android24 --sysroot=C:/Users/cheng/AppData/Local/Android/Sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dbsdiffdemo_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -g -DNDEBUG -fPIC -o CMakeFiles\\bsdiffdemo.dir\\bspatch.c.o -c C:\\androidprogram\\BsdiffDemo\\app\\src\\main\\cpp\\bspatch.c",
+  "file": "C:\\androidprogram\\BsdiffDemo\\app\\src\\main\\cpp\\bspatch.c"
+}
+]

@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "C:\\androidprogram\\BsdiffDemo\\bsdifflibrary\\src\\main\\cpp\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\cheng\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+      "-C",
+      "C:\\androidprogram\\BsdiffDemo\\bsdifflibrary\\.cxx\\Debug\\6h6450j2\\x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\cheng\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+    "-C",
+    "C:\\androidprogram\\BsdiffDemo\\bsdifflibrary\\.cxx\\Debug\\6h6450j2\\x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "bsdifflibrary::@6890427a1f51a3e7e1df": {
+      "artifactName": "bsdifflibrary",
+      "abi": "x86",
+      "output": "C:\\androidprogram\\BsdiffDemo\\bsdifflibrary\\build\\intermediates\\cxx\\Debug\\6h6450j2\\obj\\x86\\libbsdifflibrary.so",
+      "runtimeFiles": []
+    }
+  }
+}

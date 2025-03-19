@@ -1,0 +1,15 @@
+# ninja log v5
+4	882	7587010687961560	CMakeFiles/bsdiffdemo.dir/native-lib.cpp.o	148d82b6b436e209
+628	693	7586949997508899	C:/androidprogram/BsdiffDemo/app/build/intermediates/cxx/Debug/312b4m23/obj/x86_64/libbsdiffdemo.so	33bb730ceebab49
+1	7	0	clean	89cc3dfc878646ed
+8	116	7587010680262724	CMakeFiles/bsdiffdemo.dir/bspatch.c.o	5e2b535f61dd1c76
+15	77	7587011691458402	CMakeFiles/bsdiffdemo.dir/bzip/crctable.c.o	4789a78a40f83f07
+23	86	7587011691508652	CMakeFiles/bsdiffdemo.dir/bzip/randtable.c.o	246ad615c205aa25
+19	94	7587011691584414	CMakeFiles/bsdiffdemo.dir/bzip/huffman.c.o	d548d3e54358a1f7
+7	102	7587011691697878	CMakeFiles/bsdiffdemo.dir/bzip/blocksort.c.o	9e60d1e568ebad5b
+9	110	7587011691751044	CMakeFiles/bsdiffdemo.dir/bzip/compress.c.o	42280eba4210a17a
+3	121	7587011691876417	CMakeFiles/bsdiffdemo.dir/bzip/bzlib.c.o	a04115203b6c166d
+12	127	7587011691901546	CMakeFiles/bsdiffdemo.dir/bzip/decompress.c.o	e3a24238bcd6401a
+127	225	7587011692965457	C:/androidprogram/BsdiffDemo/app/build/intermediates/cxx/Debug/312b4m23/obj/x86_64/libbsdiffdemo.so	ca7e4b66ff5ed190
+0	9	0	clean	89cc3dfc878646ed
+0	6	0	clean	89cc3dfc878646ed

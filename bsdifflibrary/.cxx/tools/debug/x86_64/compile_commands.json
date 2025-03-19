@@ -1,0 +1,47 @@
+[
+{
+  "directory": "C:/androidprogram/BsdiffDemo/bsdifflibrary/.cxx/Debug/6h6450j2/x86_64",
+  "command": "C:\\Users\\cheng\\AppData\\Local\\Android\\Sdk\\ndk\\26.1.10909125\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=x86_64-none-linux-android24 --sysroot=C:/Users/cheng/AppData/Local/Android/Sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dbsdifflibrary_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles\\bsdifflibrary.dir\\bsdifflibrary.cpp.o -c C:\\androidprogram\\BsdiffDemo\\bsdifflibrary\\src\\main\\cpp\\bsdifflibrary.cpp",
+  "file": "C:\\androidprogram\\BsdiffDemo\\bsdifflibrary\\src\\main\\cpp\\bsdifflibrary.cpp"
+},
+{
+  "directory": "C:/androidprogram/BsdiffDemo/bsdifflibrary/.cxx/Debug/6h6450j2/x86_64",
+  "command": "C:\\Users\\cheng\\AppData\\Local\\Android\\Sdk\\ndk\\26.1.10909125\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android24 --sysroot=C:/Users/cheng/AppData/Local/Android/Sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dbsdifflibrary_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC -o CMakeFiles\\bsdifflibrary.dir\\bzip\\blocksort.c.o -c C:\\androidprogram\\BsdiffDemo\\bsdifflibrary\\src\\main\\cpp\\bzip\\blocksort.c",
+  "file": "C:\\androidprogram\\BsdiffDemo\\bsdifflibrary\\src\\main\\cpp\\bzip\\blocksort.c"
+},
+{
+  "directory": "C:/androidprogram/BsdiffDemo/bsdifflibrary/.cxx/Debug/6h6450j2/x86_64",
+  "command": "C:\\Users\\cheng\\AppData\\Local\\Android\\Sdk\\ndk\\26.1.10909125\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android24 --sysroot=C:/Users/cheng/AppData/Local/Android/Sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dbsdifflibrary_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC -o CMakeFiles\\bsdifflibrary.dir\\bzip\\bzlib.c.o -c C:\\androidprogram\\BsdiffDemo\\bsdifflibrary\\src\\main\\cpp\\bzip\\bzlib.c",
+  "file": "C:\\androidprogram\\BsdiffDemo\\bsdifflibrary\\src\\main\\cpp\\bzip\\bzlib.c"
+},
+{
+  "directory": "C:/androidprogram/BsdiffDemo/bsdifflibrary/.cxx/Debug/6h6450j2/x86_64",
+  "command": "C:\\Users\\cheng\\AppData\\Local\\Android\\Sdk\\ndk\\26.1.10909125\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android24 --sysroot=C:/Users/cheng/AppData/Local/Android/Sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dbsdifflibrary_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC -o CMakeFiles\\bsdifflibrary.dir\\bzip\\compress.c.o -c C:\\androidprogram\\BsdiffDemo\\bsdifflibrary\\src\\main\\cpp\\bzip\\compress.c",
+  "file": "C:\\androidprogram\\BsdiffDemo\\bsdifflibrary\\src\\main\\cpp\\bzip\\compress.c"
+},
+{
+  "directory": "C:/androidprogram/BsdiffDemo/bsdifflibrary/.cxx/Debug/6h6450j2/x86_64",
+  "command": "C:\\Users\\cheng\\AppData\\Local\\Android\\Sdk\\ndk\\26.1.10909125\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android24 --sysroot=C:/Users/cheng/AppData/Local/Android/Sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dbsdifflibrary_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC -o CMakeFiles\\bsdifflibrary.dir\\bzip\\crctable.c.o -c C:\\androidprogram\\BsdiffDemo\\bsdifflibrary\\src\\main\\cpp\\bzip\\crctable.c",
+  "file": "C:\\androidprogram\\BsdiffDemo\\bsdifflibrary\\src\\main\\cpp\\bzip\\crctable.c"
+},
+{
+  "directory": "C:/androidprogram/BsdiffDemo/bsdifflibrary/.cxx/Debug/6h6450j2/x86_64",
+  "command": "C:\\Users\\cheng\\AppData\\Local\\Android\\Sdk\\ndk\\26.1.10909125\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android24 --sysroot=C:/Users/cheng/AppData/Local/Android/Sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dbsdifflibrary_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC -o CMakeFiles\\bsdifflibrary.dir\\bzip\\decompress.c.o -c C:\\androidprogram\\BsdiffDemo\\bsdifflibrary\\src\\main\\cpp\\bzip\\decompress.c",
+  "file": "C:\\androidprogram\\BsdiffDemo\\bsdifflibrary\\src\\main\\cpp\\bzip\\decompress.c"
+},
+{
+  "directory": "C:/androidprogram/BsdiffDemo/bsdifflibrary/.cxx/Debug/6h6450j2/x86_64",
+  "command": "C:\\Users\\cheng\\AppData\\Local\\Android\\Sdk\\ndk\\26.1.10909125\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android24 --sysroot=C:/Users/cheng/AppData/Local/Android/Sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dbsdifflibrary_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC -o CMakeFiles\\bsdifflibrary.dir\\bzip\\huffman.c.o -c C:\\androidprogram\\BsdiffDemo\\bsdifflibrary\\src\\main\\cpp\\bzip\\huffman.c",
+  "file": "C:\\androidprogram\\BsdiffDemo\\bsdifflibrary\\src\\main\\cpp\\bzip\\huffman.c"
+},
+{
+  "directory": "C:/androidprogram/BsdiffDemo/bsdifflibrary/.cxx/Debug/6h6450j2/x86_64",
+  "command": "C:\\Users\\cheng\\AppData\\Local\\Android\\Sdk\\ndk\\26.1.10909125\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android24 --sysroot=C:/Users/cheng/AppData/Local/Android/Sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dbsdifflibrary_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC -o CMakeFiles\\bsdifflibrary.dir\\bzip\\randtable.c.o -c C:\\androidprogram\\BsdiffDemo\\bsdifflibrary\\src\\main\\cpp\\bzip\\randtable.c",
+  "file": "C:\\androidprogram\\BsdiffDemo\\bsdifflibrary\\src\\main\\cpp\\bzip\\randtable.c"
+},
+{
+  "directory": "C:/androidprogram/BsdiffDemo/bsdifflibrary/.cxx/Debug/6h6450j2/x86_64",
+  "command": "C:\\Users\\cheng\\AppData\\Local\\Android\\Sdk\\ndk\\26.1.10909125\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android24 --sysroot=C:/Users/cheng/AppData/Local/Android/Sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dbsdifflibrary_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC -o CMakeFiles\\bsdifflibrary.dir\\bspatch.c.o -c C:\\androidprogram\\BsdiffDemo\\bsdifflibrary\\src\\main\\cpp\\bspatch.c",
+  "file": "C:\\androidprogram\\BsdiffDemo\\bsdifflibrary\\src\\main\\cpp\\bspatch.c"
+}
+]

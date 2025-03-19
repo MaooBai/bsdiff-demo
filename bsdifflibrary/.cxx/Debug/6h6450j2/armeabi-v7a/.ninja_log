@@ -1,0 +1,23 @@
+# ninja log v5
+6	82	7590623415591679	CMakeFiles/bsdifflibrary.dir/bzip/crctable.c.o	973397d01f65f272
+1	84	7590623415651765	CMakeFiles/bsdifflibrary.dir/bsdifflibrary.cpp.o	1164b3538adf31e
+22	100	7590623415802245	CMakeFiles/bsdifflibrary.dir/bzip/randtable.c.o	5b32b92d86b52246
+18	108	7590623415882256	CMakeFiles/bsdifflibrary.dir/bzip/huffman.c.o	d1ed6522643110b2
+26	132	7590623416119119	CMakeFiles/bsdifflibrary.dir/bspatch.c.o	480fbdaf37237e12
+4	140	7590623416189091	CMakeFiles/bsdifflibrary.dir/bzip/blocksort.c.o	b087f8fb8fba6891
+12	150	7590623416319752	CMakeFiles/bsdifflibrary.dir/bzip/compress.c.o	17f542137c11533
+15	163	7590623416461011	CMakeFiles/bsdifflibrary.dir/bzip/decompress.c.o	b4c787df04f637dd
+9	178	7590623416591017	CMakeFiles/bsdifflibrary.dir/bzip/bzlib.c.o	b2b41fdcb809e5ff
+178	282	7590623417666716	C:/androidprogram/BsdiffDemo/bsdifflibrary/build/intermediates/cxx/Debug/6h6450j2/obj/armeabi-v7a/libbsdifflibrary.so	7dc02785192e2f1a
+1	8	0	clean	89cc3dfc878646ed
+0	7	0	clean	89cc3dfc878646ed
+3	102	7590630501719433	CMakeFiles/bsdifflibrary.dir/bsdifflibrary.cpp.o	1164b3538adf31e
+24	126	7590630502054938	CMakeFiles/bsdifflibrary.dir/bzip/randtable.c.o	5b32b92d86b52246
+9	136	7590630501979673	CMakeFiles/bsdifflibrary.dir/bzip/crctable.c.o	973397d01f65f272
+20	159	7590630502321938	CMakeFiles/bsdifflibrary.dir/bzip/huffman.c.o	d1ed6522643110b2
+6	187	7590630502638156	CMakeFiles/bsdifflibrary.dir/bzip/blocksort.c.o	b087f8fb8fba6891
+33	209	7590630502783089	CMakeFiles/bsdifflibrary.dir/bspatch.c.o	480fbdaf37237e12
+16	220	7590630502984137	CMakeFiles/bsdifflibrary.dir/bzip/compress.c.o	17f542137c11533
+28	250	7590630503293149	CMakeFiles/bsdifflibrary.dir/bzip/decompress.c.o	b4c787df04f637dd
+13	252	7590630503303184	CMakeFiles/bsdifflibrary.dir/bzip/bzlib.c.o	b2b41fdcb809e5ff
+252	346	7590630504254264	C:/androidprogram/BsdiffDemo/bsdifflibrary/build/intermediates/cxx/Debug/6h6450j2/obj/armeabi-v7a/libbsdifflibrary.so	7dc02785192e2f1a

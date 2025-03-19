@@ -1,0 +1,3 @@
+C:/androidprogram/BsdiffDemo/bsdifflibrary/.cxx/Debug/6h6450j2/arm64-v8a/CMakeFiles/bsdifflibrary.dir
+C:/androidprogram/BsdiffDemo/bsdifflibrary/.cxx/Debug/6h6450j2/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/androidprogram/BsdiffDemo/bsdifflibrary/.cxx/Debug/6h6450j2/arm64-v8a/CMakeFiles/rebuild_cache.dir
